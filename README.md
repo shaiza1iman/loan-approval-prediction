@@ -1,5 +1,4 @@
-**# loan-approval-prediction
-Loan Approval Prediction using Logistic Regression  an educational AI/ML project for predicting loan approval outcomes.**# Loan Approval Prediction Using Logistic Regression
+ Loan Approval Prediction Using Logistic Regression
 
 ## Project Overview
 
